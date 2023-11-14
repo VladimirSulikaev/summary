@@ -31,6 +31,5 @@
 > <a href="https://youtu.be/mQ5jHFjSQNA?si=x8RbixMC_DtVjV9I">Ссылка на проект на YouTube(более подробно)</a>
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: vladimir@sulikaev.ru
+- Telegram: https://t.me/effedreen
