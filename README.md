@@ -1,5 +1,5 @@
-# ![image](https://github.com/VladimirSulikaev/summary/assets/150725281/7787643f-53f5-4c13-a3c4-131dcd77fcc3)
- Суликаев Владимир
+# Суликаев Владимир
+![imageedit_2_9319058207](https://github.com/VladimirSulikaev/summary/assets/150725281/a6c871c0-a9a3-48c7-b0cf-ad9ab04661a3)
 
 Мужчина, 19 лет, родился 10 ноября 2004
 
