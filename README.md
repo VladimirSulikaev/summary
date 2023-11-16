@@ -3,7 +3,6 @@
 
 Мужчина, 19 лет, родился 10 ноября 2004
 
-- Номер телефона: +7 (927) 511-24-48 - предпочитаемый способ связи
 - Email: vladimir@sulikaev.ru
 - Telegram: https://t.me/effedreen
 
@@ -41,6 +40,7 @@
 
 > <a href="https://youtu.be/mQ5jHFjSQNA?si=x8RbixMC_DtVjV9I">Ссылка на проект на YouTube(более подробно)</a>
 
-## Контактная информация
-- Email: vladimir@sulikaev.ru
-- Telegram: https://t.me/effedreen
+Выводы(итоги):
+
+  <li>Итог 1.</li>
+  <li>Итог 2.</li>
