@@ -80,4 +80,4 @@
 
 <p>Как решал: краткое описание решения (автореферат)<p>
 
-> <a href="https://youtu.be/mQ5jHFjSQNA?si=x8RbixMC_DtVjV9I">Ссылка на видео с разъяснением каждого кейса на YouTube(более подробно)</a>
+> <a href="https://youtu.be/mQ5jHFjSQNA?si=x8RbixMC_DtVjV9I">Ссылка на видео с разъяснением каждого кейса на YouTube (более подробно)</a>
