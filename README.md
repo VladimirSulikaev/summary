@@ -74,7 +74,7 @@
 
 </ol>
 
-<p> Как решал: краткое описание решения (автореферат): дополнить позже! </p>
+<p> Как решал: краткое описание решения (автореферат) </p>
 
 > <a href="https://docs.google.com/spreadsheets/d/1jzMYcn5T3Md4B8qIvlYNV9Sgky4rnUJ4KvNbEqQSuBI/edit?usp=sharing">Ссылка на файл с калькулятором (более подробно) </a>
 
