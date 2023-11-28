@@ -1,8 +1,6 @@
 # Владимир Суликаев 
 ![imageedit_2_9319058207](https://github.com/VladimirSulikaev/summary/assets/150725281/a6c871c0-a9a3-48c7-b0cf-ad9ab04661a3)
 
-Мужчина, 19 лет, родился 10 ноября 2004
-
 - Email: vladimir@sulikaev.ru
 - Telegram: https://t.me/effedreen
 
