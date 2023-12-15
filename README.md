@@ -135,4 +135,4 @@
 
 <p> Как решал: краткое описание решения: </p>
 
-> <a href="[https://youtu.be/mQ5jHFjSQNA?si=x8RbixMC_DtVjV9I](https://youtu.be/PwAE9W_19KI?si=XyfDHCzUeBP56Fp2)">Ссылка на видео с разъяснением каждого кейса на YouTube (более подробно)</a>
+> <a href="https://youtu.be/PwAE9W_19KI?si=0RXfYwele5kSs8Vo">Ссылка на видео с разъяснением каждого кейса на YouTube (более подробно)</a>
