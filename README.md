@@ -1,6 +1,5 @@
 # Владимир Суликаев 
-![image](https://github.com/user-attachments/assets/f0157df3-c3c2-447f-94fd-c033f9db3a28)
-
+![image](https://github.com/user-attachments/assets/478001f8-0f72-435e-ada8-fa546ca235e8)
 
 - Email: vladimir@sulikaev.ru
 - Telegram: https://t.me/nuckydreen_mbt
