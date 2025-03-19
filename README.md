@@ -1,5 +1,5 @@
 # Владимир Суликаев 
-![imageedit_2_9319058207](https://github.com/VladimirSulikaev/summary/assets/150725281/a6c871c0-a9a3-48c7-b0cf-ad9ab04661a3) ![image](https://github.com/user-attachments/assets/f0157df3-c3c2-447f-94fd-c033f9db3a28)
+![image](https://github.com/user-attachments/assets/f0157df3-c3c2-447f-94fd-c033f9db3a28)
 
 
 - Email: vladimir@sulikaev.ru
