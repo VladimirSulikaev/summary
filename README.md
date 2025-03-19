@@ -33,7 +33,7 @@
 
 </ol>
 
-> <a href="https://youtu.be/PwAE9W_19KI?si=0RXfYwele5kSs8Vo">Ссылка на видео с разъяснением каждого кейса на YouTube (более подробно) </a>
+![image](https://github.com/user-attachments/assets/8bf64c0b-58ca-46a6-b72c-daaf48146df9)
 
 #### Проект 3: Анализ вовлечённости в геймдеве (SQL)
 
