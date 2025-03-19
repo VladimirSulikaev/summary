@@ -18,12 +18,6 @@
 - Excel & Google Sheets: ``Power Query, Power Pivot, формулы``  
 - Английский: ``Intermediate (B1)``
 
-- Инструменты анализа данных: ``Excel``, ``Google Sheets``, ``DBeaver``, ``Spyder``, ``Jupiter Notebook``
-- Языки программирования и библиотеки: ``Python``, ``Pandas``, ``Numpy``, ``Scipy``, ``Matplotlib``, ``Seaborn``
-- Системы управления базами данных: ``PostgreSQL``, ``MySQL``, ``Clickhouse``
-- Средства визуализации данных: ``Superset``,``PowerBi``, ``Excel``
-- Английский язык на уровне: ``Intermediate (B1)``
-
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики (будет дополняться).
 <br>
 
