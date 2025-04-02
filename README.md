@@ -47,7 +47,7 @@
 
 </ol>
 
-![image](https://github.com/user-attachments/assets/740ebf96-28f6-446f-973f-e8a4ce8a27ad)
+![image](https://github.com/user-attachments/assets/71d39ad3-24d8-4a78-a748-109cf37645a1)
 
 #### Проект 3: Анализ вовлечённости в геймдеве (SQL)
 
