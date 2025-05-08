@@ -200,9 +200,9 @@
 
 </ol>
 
-![image](https://github.com/user-attachments/assets/f200c18b-2883-409e-b149-7d169a4dad22)
-
 #### Проект 5: Анализ Retention пользователей после рекламной кампании (Superset, SQL)
+
+![image](https://github.com/user-attachments/assets/f200c18b-2883-409e-b149-7d169a4dad22)
 
 <ol>
 
@@ -214,9 +214,9 @@
 
 </ol>
 
-![image](https://github.com/user-attachments/assets/f200c18b-2883-409e-b149-7d169a4dad22)
-
 #### Проект 4: Дашборд метрики ленты новостей и чатов (SQL, Superset)
+
+![image](https://github.com/user-attachments/assets/f200c18b-2883-409e-b149-7d169a4dad22)
 
 <ol>
 
@@ -226,9 +226,9 @@
 
 </ol>
 
-![image](https://github.com/user-attachments/assets/71d39ad3-24d8-4a78-a748-109cf37645a1)
-
 #### Проект 3: Анализ вовлечённости в геймдеве (SQL)
+
+![image](https://github.com/user-attachments/assets/71d39ad3-24d8-4a78-a748-109cf37645a1)
 
 <ol>
 
