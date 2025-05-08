@@ -27,7 +27,7 @@
 
 <ol>
 
-![image](https://github.com/user-attachments/assets/b03fa1b5-03ff-4583-b75e-beb17c9475ad)
+![image](https://github.com/user-attachments/assets/70d0881c-d6ff-4c39-a3d4-65f854c5fe0a)
 
 <p> Задача: Создать удобный дейли отчёт по витринам в Clickhouse </p>
 <p> Инструменты: Python, Airflow, Clickhouse, GitLab </p>
