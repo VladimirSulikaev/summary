@@ -28,6 +28,9 @@
 <ol>
 
 ![image](https://github.com/user-attachments/assets/70d0881c-d6ff-4c39-a3d4-65f854c5fe0a)
+#### Работа системы алертов
+![image](https://github.com/user-attachments/assets/ba53df94-dbce-4efe-8e51-ba832c9976e7)
+
 
 <p> Задача: Создать дейли отчёт по витринам в Clickhouse </p>
 <p> Инструменты: Python, Airflow, Clickhouse, GitLab </p>
