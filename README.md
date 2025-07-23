@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/fdb6f3ba-1e58-4f3d-8f91-59624717a710)
 
 - Email: vladimir@sulikaev.ru
-- Telegram: https://t.me/nuckydreen_mbt
+- Telegram: https://t.me/vladimir_sulikaev
 
 ## Аналитик данных
 
